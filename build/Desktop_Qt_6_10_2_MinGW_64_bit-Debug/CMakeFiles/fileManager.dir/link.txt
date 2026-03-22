@@ -1,0 +1,3 @@
+Z:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\fileManager.dir/objects.a
+Z:\QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\fileManager.dir/objects.a @CMakeFiles\fileManager.dir\objects1.rsp
+Z:\QT\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\fileManager.dir/objects.a -Wl,--no-whole-archive -o fileManager.exe -Wl,--out-implib,libfileManager.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fileManager.dir\linkLibs.rsp

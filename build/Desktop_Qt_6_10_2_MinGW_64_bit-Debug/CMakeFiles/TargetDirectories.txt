@@ -1,0 +1,9 @@
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/fileManager.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/fileManager_autogen_timestamp_deps.dir
+D:/FileAPP/fileManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/fileManager_autogen.dir
